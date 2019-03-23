@@ -67,4 +67,5 @@ public class AliceBobEvaluatorTest {
         Assert.assertTrue(isAlice);
         Assert.assertFalse(isBob);
     }
+
 }
